@@ -1,0 +1,25 @@
+.w-100 {
+  width: 75% !important;
+  height: 75%;
+}
+
+.carousel{
+  margin-bottom: 50px;
+  margin-top: 50px;
+}
+
+.card-deck{
+  padding: 10px;
+  margin: auto;
+}
+.carousel-inner img {
+  margin: auto;
+}
+
+.card-img-top{
+  padding: 1%;
+  margin: auto;
+  width: 35%;
+}
+
+
